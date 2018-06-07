@@ -1,0 +1,7 @@
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\bin\Debug\SirmaSolutionsTask.exe.config
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\bin\Debug\SirmaSolutionsTask.exe
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\bin\Debug\SirmaSolutionsTask.pdb
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\obj\Debug\SirmaSolutionsTask.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\obj\Debug\SirmaSolutionsTask.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\obj\Debug\SirmaSolutionsTask.exe
+C:\Users\Lockwar\source\repos\SirmaSolutionsTask\SirmaSolutionsTask\obj\Debug\SirmaSolutionsTask.pdb
